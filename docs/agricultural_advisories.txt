@@ -1,0 +1,35 @@
+
+Document ID: AGRI-001
+Topic: Climate stress and heat
+Crop: General
+Risk: High temperature and climate stress
+Guidance: Review local weather forecasts and crop-specific heat advisories. Monitor soil moisture and crop condition. Follow locally validated irrigation guidance and consult an agricultural extension officer when stress persists.
+Source: Starter guidance for prototype testing; requires verification against an authoritative agricultural source.
+
+Document ID: AGRI-002
+Topic: Water stress and irrigation
+Crop: General
+Risk: Low soil moisture or irregular rainfall
+Guidance: Check soil moisture and the crop's growth stage before adjusting irrigation. Consider locally suitable water-efficient irrigation methods where appropriate. Avoid applying a fixed irrigation schedule without considering crop and soil conditions.
+Source: Starter guidance for prototype testing; requires verification against an authoritative agricultural source.
+
+Document ID: AGRI-003
+Topic: Pest risk
+Crop: General
+Risk: Elevated pest risk
+Guidance: Inspect crops regularly and identify the pest before choosing a control measure. Consider integrated pest management, field monitoring, and locally recommended preventive measures. Use pesticides only when appropriate and according to the product label and local guidance.
+Source: Starter guidance for prototype testing; requires verification against an authoritative agricultural source.
+
+Document ID: AGRI-004
+Topic: Disease risk
+Crop: General
+Risk: Elevated disease risk
+Guidance: Record visible symptoms, affected plant parts, crop stage, and recent weather conditions. Seek a reliable diagnosis before selecting treatment. Follow crop-specific recommendations from a qualified agricultural extension service.
+Source: Starter guidance for prototype testing; requires verification against an authoritative agricultural source.
+
+Document ID: AGRI-005
+Topic: General agricultural risk
+Crop: General
+Risk: Multiple risk indicators
+Guidance: Review climate stress, pest risk, disease risk, soil moisture, and crop condition together. Prioritize field inspection and verified crop-specific advice instead of relying on a single risk score.
+Source: Starter guidance for prototype testing; requires verification against an authoritative agricultural source.
